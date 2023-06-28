@@ -1,26 +1,20 @@
-### `Hello World!` 👋🌎
+### `Hello World! 👋🌎`
 
-Hi! I'm JJ (Jiajie) Chen, a professional data engineer with an interest in AI/ML, distributed system architecture, and scientific computing.
+Hi! I'm **JJ (Jiajie) Chen**, a professional data engineer with an interest in AI/ML, distributed system architecture, and scientific computing.
 As a hobbyist programmer, I like to work on frontend webpage design and game design.
 
-I mainly program in:
+I use Debian and deriviatives at work and home, but I'm also experimenting with Fedora Silverblue.
+
+I mainly develop in:
 - Python
 - Typescript
 - Bash
 
-I use Debian and deriviatives at work and home, but I'm also experimenting with Fedora Silverblue.
+I'm currently learning more about:
+- C++17 and Rust, to get better at modern systems programming
+- Homelab setups, to get better at managing tech stacks from the bottom up
 
-<!--
-**jiajie-chen/jiajie-chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on:
+- [JSON Resume themes](https://github.com/jiajie-chen/jsonresume-theme-coldbrew)
+- [Astro SSGs](https://github.com/jiajie-chen/jiajie-chen.github.io)
+- [C++ game design](https://github.com/jiajie-chen/raylib-game)
