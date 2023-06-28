@@ -1,4 +1,14 @@
-### Hi there 👋
+### `Hello World!` 👋🌎
+
+Hi! I'm JJ (Jiajie) Chen, a professional data engineer with an interest in AI/ML, distributed system architecture, and scientific computing.
+As a hobbyist programmer, I like to work on frontend webpage design and game design.
+
+I mainly program in:
+- Python
+- Typescript
+- Bash
+
+I use Debian and deriviatives at work and home, but I'm also experimenting with Fedora Silverblue.
 
 <!--
 **jiajie-chen/jiajie-chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
