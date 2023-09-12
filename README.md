@@ -3,7 +3,8 @@
 Hi! I'm **JJ (Jiajie) Chen**, a professional data engineer with an interest in AI/ML, distributed system architecture, and scientific computing.
 As a hobbyist programmer, I like to work on frontend webpage design and game design.
 
-I use Debian and deriviatives at work and home, but I'm also experimenting with Fedora Silverblue.
+I use Debian and deriviatives at home, but I'm also experimenting with Fedora Silverblue.
+At work, I use macOS (M1) with Docker images in Alpine and Debian/Ubuntu.
 
 I mainly develop in:
 - Python
